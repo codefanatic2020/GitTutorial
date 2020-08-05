@@ -8,8 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //my first commit
-        
-        //my second commit
+      //
+
     }
 }
